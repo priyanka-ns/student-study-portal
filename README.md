@@ -25,6 +25,23 @@ A web-based portal that brings common study tools together in one place, so stud
 - **Conversion** — unit converter (length, mass, etc. — e.g. kilogram to pound, foot to yard).
 - **Conversation** — start/join a group chat by room name and username.
 
+## Screenshots
+
+**Login**
+![Login page](screenshots/login.png)
+
+**Home / Dashboard**
+![Home dashboard](screenshots/home.png)
+
+**Create Notes**
+![Create Notes](screenshots/notes.png)
+
+**Create Homework**
+![Create Homework](screenshots/homework.png)
+
+**Profile**
+![Profile](screenshots/profile.png)
+
 ## Purpose
 Provide a single, globally accessible, 24x7, user-friendly and secure place for students to handle study activities — saving time and improving access to resources.
 
